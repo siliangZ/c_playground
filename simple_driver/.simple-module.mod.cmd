@@ -1,0 +1,1 @@
+cmd_/home/siliang/NVME/Workspace/c_playground/simple_driver/simple-module.mod := { echo  /home/siliang/NVME/Workspace/c_playground/simple_driver/main.o /home/siliang/NVME/Workspace/c_playground/simple_driver/device_file.o;  echo; } > /home/siliang/NVME/Workspace/c_playground/simple_driver/simple-module.mod

@@ -1,0 +1,5 @@
+# ninja log v5
+0	210	1639502726885953457	CMakeFiles/pthread_poc.dir/main.cpp.o	c4746971c687d75c
+210	256	1639502726929952809	pthread_poc	fe8e6980f48bc4f9
+0	211	1639503257751916449	CMakeFiles/pthread_poc.dir/main.cpp.o	c4746971c687d75c
+0	53	1639503702263690543	pthread_poc	7b6b63fa5a1b8fef

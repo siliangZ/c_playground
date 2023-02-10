@@ -1,0 +1,1 @@
+cmd_/home/siliang/NVME/Workspace/c_playground/rpmsg_char/rpmsg_chr.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /home/siliang/NVME/Workspace/c_playground/rpmsg_char/rpmsg_chr.o /home/siliang/NVME/Workspace/c_playground/rpmsg_char/rpmsg_char.o

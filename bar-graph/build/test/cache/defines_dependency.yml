@@ -1,0 +1,7 @@
+---
+build/test/mocks/mock_led.c:
+- TEST
+src/bar-graph.c:
+- TEST
+src/led.c:
+- TEST

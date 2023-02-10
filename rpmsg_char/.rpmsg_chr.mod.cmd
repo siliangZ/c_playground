@@ -1,0 +1,1 @@
+cmd_/home/siliang/NVME/Workspace/c_playground/rpmsg_char/rpmsg_chr.mod := { echo  /home/siliang/NVME/Workspace/c_playground/rpmsg_char/rpmsg_char.o;  echo; } > /home/siliang/NVME/Workspace/c_playground/rpmsg_char/rpmsg_chr.mod

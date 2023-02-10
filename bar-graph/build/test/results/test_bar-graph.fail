@@ -1,0 +1,22 @@
+---
+:source:
+  :path: test
+  :file: test_bar-graph.c
+:successes:
+- :test: test_bar_graph_0_percent_all_off
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+:failures:
+- :test: test_bar_graph_100_percent_all_on
+  :line: 24
+  :message: Function led_turn_off.  Called more times than expected.
+  :unity_test_time: 0
+:ignores: []
+:counts:
+  :total: 2
+  :passed: 1
+  :failed: 1
+  :ignored: 0
+:stdout: []
+:time: 0.0011467979929875582

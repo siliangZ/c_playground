@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/siliang/NVME/Workspace/c_playground/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/pthread_poc.dir/main.cpp.o -c /home/siliang/NVME/Workspace/c_playground/main.cpp",
+  "file": "/home/siliang/NVME/Workspace/c_playground/main.cpp"
+}
+]

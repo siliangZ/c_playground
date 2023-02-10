@@ -1,0 +1,1 @@
+cmd_/home/siliang/NVME/Workspace/c_playground/simple_driver/simple-module.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /home/siliang/NVME/Workspace/c_playground/simple_driver/simple-module.o /home/siliang/NVME/Workspace/c_playground/simple_driver/main.o /home/siliang/NVME/Workspace/c_playground/simple_driver/device_file.o
